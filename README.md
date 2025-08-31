@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Subhankar  
+🚀 AWS Certified DevOps Engineer | Terraform | CI/CD | Cloud Automation  
 
-<!--
-**cloudwithsubhankar/cloudwithsubhankar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠️ What I Do
+- Build and automate scalable infrastructures on **AWS**  
+- Design **Terraform modules** for reusability and multi-environment setups  
+- Develop **CI/CD pipelines** with GitHub Actions, Jenkins, and CodePipeline  
+- Optimize cost & performance through automation and monitoring  
 
-Here are some ideas to get you started:
+### 🌟 Projects
+🔹 [terraform-aws-vpc](#) – VPC with subnets, NAT, and routing  
+🔹 [terraform-eks-cluster](#) – Production-ready Kubernetes cluster on AWS  
+🔹 [ci-cd-pipeline-demo](#) – Automated build & deploy pipeline  
+🔹 [aws-infra-automation](#) – Bash/Python scripts for cloud operations  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/subhankar-ghosh-41b1a3315/) | [Email](mailto:shubhankarghosh248@gmail.com)  
